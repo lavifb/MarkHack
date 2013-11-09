@@ -2,4 +2,4 @@ YAY
 MarkHack
 =======
 
-Twitter trends for you!! :D=
+Twitter trends for you!! =D
